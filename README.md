@@ -1,1 +1,1 @@
-#Regular expression (abc)*
+Regular expression
