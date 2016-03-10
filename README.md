@@ -1,2 +1,2 @@
-#Regular expression
+#Regular expression engine
 pattern : (abc)*
